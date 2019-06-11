@@ -1,4 +1,4 @@
-name: FirmAI
+name: AIFirm
 markdown: kramdown
 kramdown:
   input: GFM
@@ -10,7 +10,7 @@ incremental: true
 permalink: pretty
 safe: false
 lsi: false
-url: https://firmai.com
+url: https://aifirm.org
 keep_files: ["v17.06"]
 plugins:
   - jekyll-sitemap
@@ -94,7 +94,7 @@ defaults:
   - scope:
       path: "docker-for-mac"
     values:
-      assignee: "firmai"
+      assignee: "aifirm"
   - scope:
       path: "docker-for-windows"
     values:
@@ -102,11 +102,11 @@ defaults:
   - scope:
       path: "docker-hub"
     values:
-      assignee: "firmai"
+      assignee: "aifirm"
   - scope:
       path: "docker-store"
     values:
-      assignee: "firmai"
+      assignee: "aifirm"
   - scope:
       path: "engine"
     values:
@@ -123,19 +123,19 @@ defaults:
   - scope:
       path: "notary"
     values:
-      assignee: "firmai"
+      assignee: "aifirm"
   - scope:
       path: "registry"
     values:
-      assignee: "firmai"
+      assignee: "aifirm"
   - scope:
       path: "swarm"
     values:
-      assignee: "firmai"
+      assignee: "aifirm"
   - scope:
       path: "toolbox"
     values:
-      assignee: "firmai"
+      assignee: "aifirm"
   - scope:
       path: "datacenter"
     values:
