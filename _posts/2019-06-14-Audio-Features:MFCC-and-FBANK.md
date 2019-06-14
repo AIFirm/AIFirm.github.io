@@ -203,16 +203,12 @@ plot_spectrogram(mfcc.T,'mfcc')
 ### Reference
 
 
-1. 语谱图，滤波器组（Filter banks、MFCC）：
-https://www.jianshu.com/p/b416d5617b0c
+1. [语谱图，滤波器组（Filter banks、MFCC）](https://www.jianshu.com/p/b416d5617b0c)
 
-2. 声音识别教程，包括数据分析，特征提取，模型构建，模型训练和模型测试：
-https://github.com/JasonZhang156/Sound-Recognition-Tutorial
+2. [声音识别教程，包括数据分析，特征提取，模型构建，模型训练和模型测试](https://github.com/JasonZhang156/Sound-Recognition-Tutorial)
 
-3. ASR中常用的语音特征之FBank和MFCC（原理 + Python实现）：https://blog.csdn.net/Magical_Bubble/article/details/90295814#FBankFilter_Banks_228
+3. [ASR中常用的语音特征之FBank和MFCC（原理 + Python实现）](https://blog.csdn.net/Magical_Bubble/article/details/90295814#FBankFilter_Banks_228)
 
-4. 语音识别的前世今生：GMM+HMM & 深度学习：
-http://makaidong.com/lyu0709/44493_689370_4.htm
+4. [语音识别的前世今生：GMM+HMM & 深度学习](http://makaidong.com/lyu0709/44493_689370_4.htm)
 
-5. python_speech_features：
-https://github.com/jameslyons/python_speech_features
+5. [python_speech_features](https://github.com/jameslyons/python_speech_features)
