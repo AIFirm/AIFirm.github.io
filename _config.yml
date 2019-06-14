@@ -106,7 +106,7 @@ url-pretty: "AIFirm.org"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-142163161-1"
 
 # Google Tag Manager ID
 #gtm: ""
