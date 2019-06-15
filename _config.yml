@@ -27,8 +27,8 @@ navbar-links:
   资源列表:
     - AIOpen: "https://github.com/jamess010/AIOpen"
     - ContentBC: "http://www.contentbc.com"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+#    - Learn markdown: "http://www.markdowntutorial.com/"
+#    - GitHub Pages: "https://pages.github.com/"
   Github: "https://github.com/AIFirm/AIFirm"
 
 # Image to show in the navigation bar - image must be a square (width = height)
