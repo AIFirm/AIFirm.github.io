@@ -12,6 +12,10 @@
 
 5.[Credit Approval](/github.com/IBM-Cloud-DevFest-2018/Data-Science-for-Banking/blob/master/02-CreditCardApprovalModel/CreditCardApprovalModel.ipynb) - A system for credit card approval.
 
+6.[Stack Prediction models](https://github.com/huseinzol05/Stock-Prediction-Models) - 股票预测模型
+
+
+
 ### Management and Operation
 
 1.[Credit Card](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/03_ipy_notebooks/clv_prediction.ipynb) - Estimate the CLV of credit card customers.
@@ -57,3 +61,15 @@
 1.[Bank Note Fraud Detection](https://github.com/apoorv-goel/Bank-Note-Authentication-Using-DNN-Tensorflow-Classifier-and-RandomForest) - Bank Note Authentication Using DNN Tensorflow Classifier and RandomForest.
 
 2.[ATM Surveillance](https://github.com/shivangchopra11/InfyHack) - ATM Surveillance in banks use case.
+
+### Biometrics
+
+1.[Keystroke Dynamics](https://github.com/njanakiev/keystroke-biometrics) - Biometrics on Keystroke Dynamics
+
+2.[kss](https://github.com/yuzeh/kss) - Security via keystroke biometrics
+
+3.[fingerprint biometrics](https://github.com/rtshadow/biometrics) - fingerprint recognition, etc.
+
+4.[Fingerprint-Classification-System](https://github.com/Rubens10010/Fingerprint-Classification-System) - Biometric recognition system using fingerprint images for Verification and Authentication
+
+5.[DNN-Face-Recognition-Papers](https://github.com/L706077/DNN-Face-Recognition-Papers) - awesome deep learning papers for face recognition
