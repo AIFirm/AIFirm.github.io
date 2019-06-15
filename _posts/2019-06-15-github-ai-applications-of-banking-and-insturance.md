@@ -73,3 +73,5 @@
 4.[Fingerprint-Classification-System](https://github.com/Rubens10010/Fingerprint-Classification-System) - Biometric recognition system using fingerprint images for Verification and Authentication
 
 5.[DNN-Face-Recognition-Papers](https://github.com/L706077/DNN-Face-Recognition-Papers) - awesome deep learning papers for face recognition
+
+6.[kaldi](https://github.com/kaldi-asr/kaldi) - 当下十分流行的语音识别工具包，也包括声纹识别：覆盖了主流的声纹识别算法，如I-vector 、x-vector等
