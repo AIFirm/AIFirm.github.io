@@ -9,9 +9,13 @@
 我们重点介绍ATM的一些AI应用程序，这些应用程序在商业化程度方面似乎脱颖而出。我们将应用程序大致分为以下5个部分：
 
 * ATM机的预测性维护
+
 * ATM机网络安全的机器学习
+
 * 机器视觉ATM摄像机
+
 * 面部识别安全性和改善客户体验
+
 * 预测ATM现金需求
 
 ## ATM的预测性维护
@@ -29,6 +33,7 @@ TSS可以通过整合资产监控和预测分析来帮助银行减少ATM停机�
 IBM列举了一些声称帮助银行优化ATM维护的[案例研究](https://www.ibm.com/downloads/cas/BNGDYMKR)：
 
 * IBM声称已经帮助一家拥有数千个ATM位置的未具名拉丁美洲银行改善了使用TSS平台进行ATM维护的运营流程。
+
 * 据IBM称，该软件帮助银行显着改善了客户满意度，ATM可用性，分支机构人员生产力水平和运营成本等因素。但是，IBM没有就集成中涉及的内容或如何衡量这些因素分享任何进一步的细节。
 
 [根据IBM的说法](https://www-05.ibm.com/services/europe/digital-whitepaper/atm/automation-is-the-future.html)，TSS软件旨在将维护从“反应性”维护转移到主动维护计划，这可能会显着减少停机时间。
@@ -49,9 +54,13 @@ NCR总部位于亚特兰大，拥有约30,000名员工，是世界上最大的AT
 在[另一个案例研究中](https://emerj.com/ai-sector-overviews/artificial-intelligence-for-atms-6-current-applications/)， NCR声称与新西兰银行（BNZ）合作，帮助提高银行的客户满意度：
 
 * 作为竞争对手的差异化因素，BNZ希望实现更高的客户服务水平，因此他们部署了NCR SMartServ
+
 * NCR声称SmartServe平台从全球NCR设备上的ATM服务运营中收集数据，并使用AI查找与BNZ最佳ATM维护实践相关的模式：
+
   * 即将发生的故障预测和寿命终止预测：NCR声称，SmartServ监控ATM内各个组件的使用情况，并在任何组件达到其预期寿命终止之前主动安排更换或维修。
+
   * 服务智能：该平台还可以生成对实时日志和ATM配置数据的详细分析，以便为每个维修问题提供最准确的维修建议，确保使用正确的部件派遣具有合适技能的工程师。
+
 * NCR还声称，这种集成有助于将ATM网络的停机时间减少三分之一，尽管目前尚不清楚该指标的使用时间框架，或者停机时间的减少仅仅是由于集成的影响。
 
 ## ATM网络安全的机器学习
@@ -90,6 +99,7 @@ Navaneethan Sundaramoorthy联合创始人和Uncanny Vision Unocny Vision的CMO�
 根据微软的一个使用案例，Uncanny Vision软件可以安装在ATM摄像机上，提供实时监控：
 
 * 该公司声称他们的系统可以区分标准行为和任何引起警报的活动，例如一个人弯腰太久（超过4-5分钟）或者阻挡相机的人。
+
 * Uncanny Vision声称该软件可以使用基于深度学习的视觉系统在摄像机本身上实时分析来自监控摄像机的镜头，发送警报，并为ATM安全性创建分析。
 
 虽然创始人兼首席执行官Ranjith Parakkal拥有印度科学研究院的电子学位，并担任德州仪器的首席工程师3年，但我们无法为Uncanny Vision找到任何有力的案例研究。
@@ -126,8 +136,12 @@ SAS由首席执行官Jim Goodnight创立，他之前曾在北卡罗来纳州立�
 
 根据我们的研究，以下是有关AI如何应用于管理ATM操作以及企业可能想要了解的主要主题：
 * ATM的预测性维护似乎是人工智能在ATM运营改进中最普遍的应用
+
   * 其中一项改进包括通过允许更有效的定期维护来减少ATM用完现金的次数。
+  
+
 * ATM安全的计算机视觉应用可能在未来2到5年内变得更加普遍
+
 * ATM的AI应用似乎在提供预测分析的AI供应商和ATM制造商之间传播
 
 [阅读原文](https://emerj.com/ai-sector-overviews/artificial-intelligence-for-atms-6-current-applications/)
