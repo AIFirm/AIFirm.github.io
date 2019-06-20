@@ -41,7 +41,8 @@
 
 通过这种方式将生物识别数据连接到各个客户数据集可以使金融机构更容易快速审查贷款申请。它还可以帮助识别发送应用程序的客户，这将改善客户体验并允许人员专注于其他任务。
 
-下面是一个演示视频，展示了用户如何使用亚马逊的“Amazon Rekognition”平台创建.net应用程序。这种类型的应用程序允许用户通过桌面和移动应用程序上的Web浏览器访问亚马逊面部识别技术支持的功能和服务。演示于6:18开始，[点击观看](https://www.youtube.com/watch?v=KcMvZ2MAGUw)。
+下面是一个演示视频，展示了用户如何使用亚马逊的“Amazon Rekognition”平台创建.net应用程序。这种类型的应用程序允许用户通过桌面和移动应用程序上的Web浏览器访问亚马逊面部识别技术支持的功能和服务。演示于6:18开始：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KcMvZ2MAGUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 亚马逊网络服务声称已帮助Aella Credit [在贷款申请结束时验证其客户的身份](https://aws.amazon.com/cn/solutions/case-studies/aellacredit/)。Aella Credit的移动应用程序允许西非的银行不足人士申请几乎没有银行业务历史的贷款。他们批准基于生物识别和雇主数据的请求，以验证稳定的收入和低风险阈值。
 

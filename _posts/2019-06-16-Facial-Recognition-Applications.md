@@ -24,12 +24,14 @@
 
 ### 安全
 #### Trueface.AI - 欺诈检测
-有时，面部识别技术可能无法区分人脸和照片。结果，这个缺陷会严重影响安全工作。为了应对这一挑战，[Trueface.AI](https://trueface.ai/)，一个名为[Chui](http://my-smarthome.com/en/smart-home-products/chui-the-facial-recognition-doorbell/)的面部识别门铃的开发者，正在使用深度学习和面部识别技术来区分人脸和照片，[点击观看](https://www.youtube.com/watch?time_continue=34&v=C5tF8sAp1fA)。
+有时，面部识别技术可能无法区分人脸和照片。结果，这个缺陷会严重影响安全工作。为了应对这一挑战，[Trueface.AI](https://trueface.ai/)，一个名为[Chui](http://my-smarthome.com/en/smart-home-products/chui-the-facial-recognition-doorbell/)的面部识别门铃的开发者，正在使用深度学习和面部识别技术来区分人脸和照片：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C5tF8sAp1fA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 据报道，[Trueface.AI](https://trueface.ai/)的深度学习算法经过多年来团队收集的数千个“攻击”案例的培训。据报道，Trueface.AI的技术正在由包括医疗保健和银行业在内的多个行业的公司实施。
 
 #### Kairos - 欺诈检测
-可以说是人工智能面部识别领域的大公司之一，[Kairos](https://www.kairos.com/)使用机器学习和计算机视觉来运行其[工具套件](https://www.kairos.com/features)，包括标准面部识别功能和其他选项，如性别，年龄和种族检测。在下面的3分钟视频中，Kairos团队展示了该产品的实际应用并解释了其主要用例，[点击观看](https://www.youtube.com/watch?v=vAAEpeLKyuQ)。
+可以说是人工智能面部识别领域的大公司之一，[Kairos](https://www.kairos.com/)使用机器学习和计算机视觉来运行其[工具套件](https://www.kairos.com/features)，包括标准面部识别功能和其他选项，如性别，年龄和种族检测。在下面的3分钟视频中，Kairos团队展示了该产品的实际应用并解释了其主要用例：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vAAEpeLKyuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 自公司成立于2012年以来，据报道，Kairos 通过风险投资，天使投资，种子投资以及A轮和B轮投资组合筹集了426万美元的总股本。2015年，该公司估计以270万美元收购了IMRSV（一家软件公司），该公司据称“ [将任何网络摄像头变为智能传感器](https://www.crunchbase.com/organization/imrsv)。”
 
@@ -79,7 +81,8 @@ Kairos 在其网站上发布了一些[案例研究](https://www.kairos.com/indus
 
 ### 营销
 #### FaceDeals - 目标营销
-面部识别技术在营销领域的应用可以潜在地支持提高客户忠诚度的努力。然而，由于隐私问题，该技术遇到了吸引消费者的挑战，[点击观看](https://www.youtube.com/watch?v=sLOxUVvcjwE)。
+面部识别技术在营销领域的应用可以潜在地支持提高客户忠诚度的努力。然而，由于隐私问题，该技术遇到了吸引消费者的挑战：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLOxUVvcjwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 例如，应用Facedeals旨在通过将面部识别与Facebook个人资料相结合，针对客户提供他们经常出现的特殊优惠。具体而言，面部识别摄像机将安装在商业入口处，这将在客户进入时识别他们。同时，客户将根据他或她的Facebook“赞”历史向他们的智能手机收到定制交易的通知。
 

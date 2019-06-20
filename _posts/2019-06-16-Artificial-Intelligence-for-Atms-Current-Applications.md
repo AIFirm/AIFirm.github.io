@@ -28,7 +28,8 @@ IBM声称该软件可以跟踪ATM的历史数据并预测机器和组件级别�
 该平台可以帮助拥有全球ATM存在的银行减少从销售中转移的员工注意力，以便处理运营问题，例如现场运行的ATM功能不足或客户满意度降低。
 IBM声称他们的TSS平台可以使用来自传感器（如振动传感器）的数据来评估ATM设备的使用年限，并且当数据的实时监控反映出异常情况时，它可以推荐更换部件
 TSS可以通过整合资产监控和预测分析来帮助银行减少ATM停机时间。如果TSS平台确定了潜在的维护要求，它可能会通过提示银行的维护团队在下一次计划维护期间订购可能需要更换的部件来自动进行干预。
-以下是来自IBM的视频，详细介绍了他们的ATM预测维护软件，[点击观看](https://www.youtube.com/watch?v=IwMjBi5Z-fY)
+以下是来自IBM的视频，详细介绍了他们的ATM预测维护软件：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IwMjBi5Z-fY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 IBM列举了一些声称帮助银行优化ATM维护的[案例研究](https://www.ibm.com/downloads/cas/BNGDYMKR)：
 
@@ -43,7 +44,8 @@ IBM列举了一些声称帮助银行优化ATM维护的[案例研究](https://www
 #### NCR SmartServe预测
 NCR总部位于亚特兰大，拥有约30,000名员工，是世界上最大的ATM制造商之一。该公司还提供预测分析解决方案，用于管理和提高银行和金融机构的ATM服务效率。
 
-据报道，[NCR SmartServe](https://www.ncr.com/content/dam/ncrcom/content-type/datasheets/15FIN3906_NCR_SmartServ_Predict_ds1.pdf)预测可以分析来自ATM的历史传感器数据，预测任何机器性能问题，并提示服务工程师。下面的4分钟视频概述了NCR的预测服务如何帮助银行和金融机构改善ATM服务，[点击观看](https://www.youtube.com/watch?v=iY0WHfts9Ww)
+据报道，[NCR SmartServe](https://www.ncr.com/content/dam/ncrcom/content-type/datasheets/15FIN3906_NCR_SmartServ_Predict_ds1.pdf)预测可以分析来自ATM的历史传感器数据，预测任何机器性能问题，并提示服务工程师。下面的4分钟视频概述了NCR的预测服务如何帮助银行和金融机构改善ATM服务：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iY0WHfts9Ww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 该公司声称他们的平台可以帮助主动设备维护和诊断功能，同时还为所有ATM服务事件保持完整的审计跟踪。
 
@@ -94,7 +96,8 @@ Uncanny Vision是一家印度创业公司，在班加罗尔成立，拥有约23�
 
 Uncanny Vision声称他们的Uncanny Surveillance软件可以使ATM监控摄像头识别和理解人体位置（例如站立或坐着），人脸和环境中的物体。从业务角度来看，银行可能会使用该软件自动化远程ATM的安全性，或减少管理其ATM网络安全所需的人员安全人员数量。
 
-Navaneethan Sundaramoorthy联合创始人和Uncanny Vision Unocny Vision的CMO，联合创始人和CMO的2分钟视频展示了他们的软件如何为ATM提供实时视频分析和监控，[点击观看](https://www.youtube.com/watch?time_continue=1&v=gIE9536faVs)。
+Navaneethan Sundaramoorthy联合创始人和Uncanny Vision Unocny Vision的CMO，联合创始人和CMO的2分钟视频展示了他们的软件如何为ATM提供实时视频分析和监控：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gIE9536faVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 根据微软的一个使用案例，Uncanny Vision软件可以安装在ATM摄像机上，提供实时监控：
 
@@ -113,7 +116,8 @@ Diebold Nixdorf是世界上最大的ATM制造商之一，与三星合作展示�
 
 三星认为，这可以提高客户满意度，因为它不需要物理卡，也不需要记住密码。（对改善客户体验感兴趣的银行可能对我们对银行聊天机器人的直接比较感兴趣）。
 
-三星SDS和Diebold Nixdorf在下面的8分钟视频中展示了他们的无卡ATM的详细信息，[点击观看](https://www.youtube.com/watch?v=2LCAtRSSYcA)。
+三星SDS和Diebold Nixdorf在下面的8分钟视频中展示了他们的无卡ATM的详细信息：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2LCAtRSSYcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 据报道，波多黎各银行计划试行这些新的ATM，之前曾与三星合作过认证项目。我们无法找到银行采用这项技术的进一步证据，也无法为Banco Puerto Rico的试点项目找到任何可靠的结果。
 
@@ -138,7 +142,7 @@ SAS由首席执行官Jim Goodnight创立，他之前曾在北卡罗来纳州立�
 * ATM的预测性维护似乎是人工智能在ATM运营改进中最普遍的应用
 
   * 其中一项改进包括通过允许更有效的定期维护来减少ATM用完现金的次数。
-  
+
 
 * ATM安全的计算机视觉应用可能在未来2到5年内变得更加普遍
 

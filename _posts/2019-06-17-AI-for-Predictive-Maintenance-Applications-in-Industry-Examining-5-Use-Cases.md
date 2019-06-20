@@ -21,7 +21,9 @@
 
 Maximo Asset Health由IBM推出，它使用IBM Watson的数据和预先安装在机器上的传感器来确定是否以及何时需要维护一台机器或部件。IBM声称该软件还考虑了因素，包括机器的使用年限和维护历史。
 
-虽然我们找不到演示用户界面界面的演示，但下面的1分钟视频演示了如何使用该产品，[点击观看](https://www.youtube.com/watch?v=1d9WqYtLKGM)。
+虽然我们找不到演示用户界面界面的演示，但下面的1分钟视频演示了如何使用该产品：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1d9WqYtLKGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Maximo Asset Health列出了客户，如AGR Group，Australian Maritime Systems，Brisbane Motorway Services，ConnectEast，CNR International，Drax Power Station。
 
@@ -42,9 +44,11 @@ DataRPM表示，他们协助公司将预先建立在公司机器中的传感器�
 
 每个分析显示基于机器因素预期有多少异常，例如年龄和维护历史。在显示预期的异常之后，它将显示软件在机器上运行的测试期间实际发生的异常数。如果出现比预期更多的异常，它将向维护人员发出信号，表明机器可能需要维修。
 
-3分钟的静音视频演示了用户如何通过软件的仪表板检查机器的故事情节，[点击观看](https://www.youtube.com/watch?v=QgzT-9UOaW0)。
+3分钟的静音视频演示了用户如何通过软件的仪表板检查机器的故事情节：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QgzT-9UOaW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-下面还提供了用户如何与软件及其仪表板交互的概述，[点击观看](https://www.youtube.com/watch?v=cwKMje1PtTs)。
+下面还提供了用户如何与软件及其仪表板交互的概述：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cwKMje1PtTs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 在一个[案例研究](https://d117h1jjiq768j.cloudfront.net/docs/default-source/datarpm/datarpm_solution_briefv2.pdf?sfvrsn=f5581ef7_4)中，一家未命名的财富100强制造公司向Progress寻求优化和加快机械修复的步伐。该研究表明，该公司还希望减少不需要的备件库存资金，但作为预防措施购买。
 
@@ -60,7 +64,8 @@ DataRPM表示，他们协助公司将预先建立在公司机器中的传感器�
 
 似乎Predii的软件首先连接到机械及其传感器。然后，使用机器的用户可以打开仪表板，如果一台机器不工作或者根据其传感器收集的数据可能会失败，它将通知他们。从此通知中，用户似乎可以单击指南，告诉他们必须更换哪些特定部件或者他们如何解决问题。
 
-虽然我们找不到演示如何使用该软件的演示，但这个4分钟的宣传视频简要介绍了该产品的截图并说明了如何使用该产品，[点击观看](https://www.youtube.com/watch?v=CGjz0EroVrc)。
+虽然我们找不到演示如何使用该软件的演示，但这个4分钟的宣传视频简要介绍了该产品的截图并说明了如何使用该产品：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CGjz0EroVrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 该公司没有在其网站上列出任何案例研究和客户，但Predii声称其领导层最近与NASA会面以讨论大数据。该公司还声称与Snap-On Diagnostics 建立合作关系，Snap-On Diagnostics 是一家汽车诊断软件公司，使用Perdii为其预测性维护应用提供动力。
 
@@ -75,7 +80,8 @@ GE声称其[Predix资产绩效管理软件](https://www.ge.com/digital/applicati
 
 GE还声称其软件允许用户通过智能手机或平板电脑创建和分配工单。
 
-下面的2分钟视频详细介绍了该软件的仪表板，[点击观看](https://www.youtube.com/watch?v=M7jUeoR_HJE)。
+下面的2分钟视频详细介绍了该软件的仪表板：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M7jUeoR_HJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 GE的网站提供了一个关于Grove City再制造设施的视频案例研究，该设施修复了遍布美国的货运列车。根据GE的说法，该工厂于2013年开始使用GE的软件，面积为240,000平方英尺，拥有350多名员工，每年重建1200多个货运列车引擎。
 
@@ -85,7 +91,8 @@ GE的Predix软件是在大规模货运列车数字化之后实施的，要求所
 
 GE称，再制造设施需要在抵达后10天内修好列车。这包括分析问题所需的时间，他们声称在数字化之前需要花费超过五天的时间。现在，GE表示传感器分析可以实时进行，这可能会消除员工的停机时间。
 
-视频案例研究如下，[点击观看](https://www.youtube.com/watch?v=mv9tQQbWBzU)。
+视频案例研究如下：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mv9tQQbWBzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Emaint
 [eMaint](https://www.emaint.com/)提供预测性维护和任务管理软件，类似地使用传感器信息来确定何时应该修复项目。

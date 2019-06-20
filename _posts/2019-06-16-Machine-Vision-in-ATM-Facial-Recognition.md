@@ -32,7 +32,8 @@ Dragonfly Eye是该公司基于AI的安全性的主要解决方案。银行可�
 
 然后，顾客可以接近装有由Dragonfly Eye供电的相机的ATM，并尝试提取现金。然后，该软件的算法将能够识别客户的面部并确定与其相关联的银行账户。然后，它可以根据该人是否在银行的客户数据库中接受或拒绝该请求。
 
-下面是一段短短2分钟的视频，演示了Yitu Technology的软件如何与无卡ATM机配合使用，仅依靠客户的面部和密码进行验证，[点击观看](https://www.youtube.com/watch?v=FAO_qKR-eK4)
+下面是一段短短2分钟的视频，演示了Yitu Technology的软件如何与无卡ATM机配合使用，仅依靠客户的面部和密码进行验证：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FAO_qKR-eK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Yitu Technology 声称已帮助 JD Finance改变其银行和金融客户的密码验证。JD Finance利用Yitu Technology的Dragonfly Eye系统用面部识别取代密码和签名根据案例研究，JD Finance将此解决方案纳入其网上银行和金融服务。但是，应该指出的是，案例研究没有提供有关JD Finance成功的统计数据。
 
