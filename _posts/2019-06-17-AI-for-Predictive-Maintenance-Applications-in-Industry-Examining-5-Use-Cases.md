@@ -108,5 +108,3 @@ eMaint声称其系统还可以识别是否需要新零件并与制造公司的�
 eMaint声称，Westwater Treatment Plant公司面临着与机械合规性，老化设备，过时技术和高能耗相关的挑战。
 
 除传感器数据外，eMaint还使用工厂以前的系统数据构建了一个定制平台。虽然该研究没有给出具体结果，但它报告说，工厂的管理层能够跟踪和减少机器记录故障与修复之间的时间。在检测到故障时，系统还用于订购和跟踪新零件。
-
-[阅读原文](https://emerj.com/ai-sector-overviews/ai-for-predictive-maintenance-applications-in-industry-examining-5-use-cases/)

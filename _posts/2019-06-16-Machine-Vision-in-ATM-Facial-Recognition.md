@@ -38,5 +38,3 @@ Dragonfly Eye是该公司基于AI的安全性的主要解决方案。银行可�
 Yitu Technology 声称已帮助 JD Finance改变其银行和金融客户的密码验证。JD Finance利用Yitu Technology的Dragonfly Eye系统用面部识别取代密码和签名根据案例研究，JD Finance将此解决方案纳入其网上银行和金融服务。但是，应该指出的是，案例研究没有提供有关JD Finance成功的统计数据。
 
 亿图科技还将上海浦东发展银行和招商银行列为过去的一些客户。
-
-[阅读原文](https://emerj.com/ai-sector-overviews/machine-vision-in-banking-facial-recognition-and-ocr/)

@@ -147,5 +147,3 @@ SAS由首席执行官Jim Goodnight创立，他之前曾在北卡罗来纳州立�
 * ATM安全的计算机视觉应用可能在未来2到5年内变得更加普遍
 
 * ATM的AI应用似乎在提供预测分析的AI供应商和ATM制造商之间传播
-
-[阅读原文](https://emerj.com/ai-sector-overviews/artificial-intelligence-for-atms-6-current-applications/)

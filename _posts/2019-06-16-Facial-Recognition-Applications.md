@@ -102,5 +102,3 @@ Kairos 在其网站上发布了一些[案例研究](https://www.kairos.com/indus
 零售业中的AI安全应用程序也有类似的趋势。公司正在努力平衡技术提供的可能性，同时保持底线和消费者信心。关于零售商打算如何使用面部识别的透明度可能是双刃剑，因此我们期望该行业更慢地采用这种技术。
 
 我们预计各行业将继续实施面部识别技术，某些行业在创新方面处于领先地位。
-
-[原文](https://emerj.com/ai-sector-overviews/facial-recognition-applications/)
