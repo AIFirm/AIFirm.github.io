@@ -21,3 +21,5 @@ AlterEgo配有一个振动骨传导扬声器，可以将人脸的骨头叮叮当
 ## 这是不是很炫酷
 
 每当你想到一个单词，短语或甚至读书时，次声定位的过程都在起作用。 这意味着你的大脑正在向你的脸部和喉咙的肌肉发送信号，这些信号最终会塑造你说话的话语。
+
+[//]:#[原文链接]https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/mit-headset-hears-thoughts.htm)
