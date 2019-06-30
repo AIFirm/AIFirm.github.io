@@ -67,7 +67,7 @@ OpenMined平台的核心，Sonar是一个联邦学习服务器，运行在区块
 
 #### Syft
 
-包含神经网络的库，可以在加密状态下进行训练（这样矿工就无法窃取他们下载的神经网络进行训练）。
+包含神经网络的库，可以在加密状态下进行训练（这样矿工就无法窃取他们下载的神经网络进行训练）。它构建在PyTorch之上
 
 更多信息，请访问 [OpenMined Github](https://github.com/openmined/pysyft)
 
@@ -93,7 +93,11 @@ Cloudera 提供一个交互式联合学习原型，[Turbofan Tycoon](https://tur
 
 更多信息，请阅读[An introduction to Federated Learning](http://vision.cloudera.com/an-introduction-to-federated-learning/)
 
+#### 4. WeBank
 
+Federated AI Technology Enabler（FATE）是由Webank的AI小组发起的一个开源项目，旨在提供一个安全的计算框架来支持Federated AI生态系统。
+
+更多信息，请访问[WeBank](https://www.fedai.org/)
 
 ### 结论
 
