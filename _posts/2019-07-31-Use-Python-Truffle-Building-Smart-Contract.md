@@ -11,7 +11,7 @@
 5. migrate (--reset)
 
 ### 2. 使用 python 调用
-1. 安装 [web3.py](https://github.com/ethereum/web3.py) 或者使用 [docker web3.py](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/docker-web3-python)
+1. 安装 [web3.py](https://github.com/ethereum/web3.py) 或者使用 docker web3.py， 参见：[使用Docker Python 构建智能合约](https://www.aifirm.org/2019-08-01-Use-Docker-Python-Build-Smart-Contract/)
 2. cd ./notebook
 3. 将合约的 abi 编辑到 ./abis/ModelRepo.abi
 4. jupyter notebook
