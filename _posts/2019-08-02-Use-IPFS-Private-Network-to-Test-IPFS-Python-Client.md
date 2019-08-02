@@ -43,19 +43,13 @@ services:
 7. ipfs cat "node1.txt hash xxx" 查看文件
 
 ### 2. 使用 IPFS Python Client 测试
+
 1. pip install ipfsapi
 2. python 测试：
-```
->>> import ipfsapi
->>> api = ipfsapi.connect('xxx.xxx.xxx.xxx', 9001)
->>> api.cat("node1.txt hash xxx")
-This is node1!
->>> api.add("hello.txt")
-{'Name': 'hello.txt',
- 'Hash': 'QmNtqnRx65ocriXy5ui6BAHDKBVEGTwHQJJj5EDoD7Agdj',
- 'Size': 'xx'}
-
-```
-3. >>> api.id() # 查看 id 信息等
-4. >>> api.get("node1.txt hash xxx") # 下载文件
-5. >>> api.swarm.peers() # 查看连接状态
+3. import ipfsapi
+4. api = ipfsapi.connect('xxx.xxx.xxx.xxx', 9001)
+5. api.cat("node1.txt hash xxx")  
+6. api.add("hello.txt")
+7. api.id() # 查看 id 信息等
+8. api.get("node1.txt hash xxx") # 下载文件
+9. api.swarm.peers() # 查看连接状态
