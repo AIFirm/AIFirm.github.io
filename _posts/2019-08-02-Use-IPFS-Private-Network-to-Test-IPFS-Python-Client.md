@@ -53,3 +53,9 @@ services:
 7. api.id() # 查看 id 信息等
 8. api.get("node1.txt hash xxx") # 下载文件
 9. api.swarm.peers() # 查看连接状态
+
+### 3. 参考资料
+
+1. [A short trip to Jupyter via the Inter-planetary File System](https://hackernoon.com/a-short-trip-to-jupyter-via-the-inter-planetary-file-system-92c36c1e5b45)
+
+2. [IPFS](https://github.com/jamess010/AIOpen#术语解释)
